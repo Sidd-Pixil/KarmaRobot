@@ -206,15 +206,15 @@ def start(update: Update, context: CallbackContext):
                      [
                          InlineKeyboardButton(
                              text="🚑 Support Group",
-                             url=f"https://t.me/{SUPPORT_CHAT}"),
+                             url=f"https://t.me/Animeheavensupport"),
                          InlineKeyboardButton(
                              text="🔔 Updates Channel",
-                             url="https://t.me/KarmaBotUpdates")
+                             url="https://t.me/zero2updates")
                      ],
                      [
                          InlineKeyboardButton(
                              text="🧾 Logs Channel",
-                             url="https://t.me/KarmaLogs")
+                             url="https://t.me/Heaven_Logs")
                      ],
                      [
                          InlineKeyboardButton(
