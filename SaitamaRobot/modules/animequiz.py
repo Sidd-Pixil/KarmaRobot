@@ -3,7 +3,7 @@ import random
 import KarmaRobot.modules.animequiz_string as animequiz_string
 from KarmaRobot import dispatcher
 from telegram import ParseMode, Update, Bot
-from KURUMIBOT.modules.disable import DisableAbleCommandHandler
+from KarmaRobot.modules.disable import DisableAbleCommandHandler
 from telegram.ext import CallbackContext, run_async
 
 @run_async
